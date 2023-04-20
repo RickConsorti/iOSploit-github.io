@@ -27,6 +27,8 @@ iOSploit is a free iCloud/Hello Screen Bypass tool suite optimized for Linux and
 
 
 
+
+
 <i>Social buttons</i>
 
 <a href="https://github.com/mnxsija/iOSploit-github.io" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=mnxsija&message=iOSploit-github.io&color=blue&logo=github" alt="mnxsija - iOSploit-github.io"></a>
