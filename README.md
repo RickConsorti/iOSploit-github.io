@@ -23,6 +23,7 @@ iOSploit is a free iCloud/Hello Screen Bypass tool suite optimized for Linux and
 
 ---> MagicCFG 2.0v for DCSD Cables --- Works only in OSX+ Versions
 
+---> TransMAC + keygen for creating ra1nusb Jailbreak iOS 15.2 (checkra1n with optimazed ADB driver for Apple Devices)
 
 
 
