@@ -5,7 +5,7 @@
 <div align="center">
     <a href="https://iosploit.github.io/">
         <img src="iOSploit.png"
-            alt="Discover iOS cracking
+            alt="Discover iOS cracking"
             title="Go to website"
             width="600" >
     </a>
