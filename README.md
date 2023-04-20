@@ -7,7 +7,7 @@
         <img src="iOSploit.png"
             alt="Discover iOS cracking"
             title="Go to website"
-            width="600" >
+            width="100" >
     </a>
 </div>
 
